@@ -12,6 +12,7 @@
 | `WeChat/` | Article writing, content creation | Viral article templates, writing tips |
 | `Automation/` | Workflows, scheduled tasks | GitHub Trending scraper, auto-publish |
 | `WorkBuddy/` | WorkBuddy usage tips | Conversation classification, skill development |
+| `Daily/` | Daily pain points, problem-solving | WorkBuddy tips, automation workflows |
 
 ## File Naming Convention
 
